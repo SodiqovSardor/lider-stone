@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://liderstone.uz
+
+# Sitemaps
+Sitemap: https://liderstone.uz/sitemap.xml
